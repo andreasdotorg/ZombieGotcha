@@ -1,0 +1,23 @@
+Do you have a zombie infestation plan? Have you practiced running from
+your friends and family, arming yourself against rotting hordes, and
+avoiding infection by decapitating the ones you love? In the event of
+your own infection, have you considered turning against your former
+allies in the search of delicious brains and a high score? Good news,
+everyone!
+
+The ZombieGotcha lets you do all these things and more, powered by an
+8051 MCU and 900MHz radio.  Clever abuse of a text-mode LCD allows for
+exciting pixel art, while over-the-air updates allow the rules of the
+game to be changed each time it is played.  A dozen or more players
+begin as humans, then an infection is launched among the crowd from a
+single, chosen patient-zero.
+
+The game itself is being prototyped on the GirlTech IMME, an instant
+messaging toy for children that can be re-flashed a GoodFET or
+Arduino.  The firmware is compiled with the free Small Device C
+Compiler, and sprites are translated from bitmap sources using custom
+Perl scripts.  When complete, this project is targeting custom
+hardware suitable for use as an electronic conference badge.
+
+Is your zombie one armed, one legged, or just a torso?  Is it fresh,
+rotten or an in between?  The ZombieGotcha is one-size-fits-all!
